@@ -8,9 +8,9 @@ A simple java example to get file listing from SFTP
 ### To run locally
 * Clone respository
 * Edit Sftp.java to provide sftp details
-* mvn install
-* mvn compile
-* mvn exec:java -Dexec.mainClass="com.sftp.Sftp"
+* `mvn install`
+* `mvn compile`
+* `mvn exec:java -Dexec.mainClass="com.sftp.Sftp"`
 
 ### Todo:
 
